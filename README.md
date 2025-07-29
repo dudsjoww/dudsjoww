@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there!</h1>
+<h1 align="center">👋 Hello there! My name is Eduardo, nice to meet u! 😉</h1>
 
 <p align="center">
   I'm passionate about <strong>problem-solving</strong>, <strong>continuous learning</strong>, and <strong>collaborative growth</strong>.  
