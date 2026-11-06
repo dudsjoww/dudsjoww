@@ -24,12 +24,12 @@
 
 ---
 
-## 🔭 What I'm Working On
+## 🔭 What I'm Working/Worked On
 
 - 🏗️ A B2B SaaS platform for tattoo studios (FastAPI + Next.js) with DM automation
 - 📊 Data auditing and pipeline health for a CRM + AWS-based selection process system
+- ⚙️ Automated users creation in a big company
 - 🤖 AI agents with Langflow and MCP
-- 🧪 Side projects: Raspberry Pi home server with Docker, an ESP32 robot with an OLED face, and a tactical isometric RPG
 
 ---
 
@@ -60,7 +60,6 @@
 
 - 🌱 Learn something new every week
 - 🔍 Improve code readability and maintainability
-- 🤖 Contribute to open-source projects
 - 🧠 Master software architecture patterns
 - ☁️ Go deeper into data platform design and cloud infrastructure
 
